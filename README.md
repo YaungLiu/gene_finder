@@ -1,5 +1,7 @@
-for question1, run the following:
-python gene_finder1.py ncbi_dataset/ncbi_dataset/data/GCA_000006745.1/GCA_000006745.1_ASM674v1_genomic.fna > result1.txt
+#Week 4
+
+##for question1, run the following:
+'''python gene_finder1.py ncbi_dataset/ncbi_dataset/data/GCA_000006745.1/GCA_000006745.1_ASM674v1_genomic.fna > result1.txt'''
 
 for question2, run the following:
 python gene_finder2.py ncbi_dataset/ncbi_dataset/data/GCA_000006745.1/GCA_000006745.1_ASM674v1_genomic.fna > result2.txt
